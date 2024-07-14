@@ -36,3 +36,6 @@ img {
 	margin: 0 auto;
 	width: 500px; /* Done to shrink a too wide image. */
 }
+h2 {
+	font-size: 20px;
+}
