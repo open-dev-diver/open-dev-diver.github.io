@@ -1,2 +1,2 @@
-# open-dev-diver.github.io
+# opentuxer.github.io
 This is my personal website.
