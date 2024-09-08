@@ -1,18 +1,42 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<html lang="en-US">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width" />
+		<title>About Me</title>
+	</head>
+	<body>
+		<header>
+			<h1>The Website of  opentuxer</h1>
+		</header>
+		<nav>
+	    		<ul>
+				<li><a href="index.html">Homepage</a></li>
+				<li>About Me</li>
+			</ul>
+		</nav>
+    		<main>
+			<article>
+				<h2>About Me</h2>	
+				<p>Hello, I am interested in the following:</p>
+		  
+				<ul>
+					<li>Coding</li>
+					<li>Open source, <em>especially</em> Linux</li>
+				</ul>
+			</article>
+		</main>
+		<aside>
+			<h2>Glossary</h2>
+			<dl>
+				<dt>Open Source</dt>
+				<dd>Refers to code that can be freely used, shared, and modified without restriction.</dd>
+			</dl>
+		</aside>
+		<footer>
+			<p><a href="https://github.com/opentuxer">Click this link to go to my Github profile.</a></p>
+		</footer>
+	</body>
+</html>
